@@ -1,0 +1,22 @@
+{
+  "name": "underscores",
+  "version": "1.0.0",
+  "description": "Testing the waters",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emile-hay-ccx/_s.git"
+  },
+  "keywords": [
+    "wat"
+  ],
+  "author": "Commcentrix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emile-hay-ccx/_s/issues"
+  },
+  "homepage": "https://github.com/emile-hay-ccx/_s#readme"
+}
