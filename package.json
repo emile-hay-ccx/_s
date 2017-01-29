@@ -1,0 +1,19 @@
+{
+  "name": "commcentrix-underscores",
+  "version": "1.0.0",
+  "description": "Commcentrix's starter theme based on Automattic's _s theme for WordPress.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emile-hay-ccx/_s.git"
+  },
+  "author": "Commcentrix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emile-hay-ccx/_s/issues"
+  },
+  "homepage": "https://github.com/emile-hay-ccx/_s#readme"
+}
